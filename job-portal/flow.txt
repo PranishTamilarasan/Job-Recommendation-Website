@@ -1,5 +1,0 @@
-/client/src/Home.js          <-- Uploads PDF, displays returned skills
-/server/models/Pdf.js        <-- Mongoose model updated
-/server/routes/resume.js     <-- Skill extraction route
-/server/server.js            <-- App entry
-/server/.env                 <-- Credentials & config
